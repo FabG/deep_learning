@@ -1,6 +1,9 @@
 
 # Python Basics with Numpy (optional assignment)
 
+Coursera hub notebook:  
+https://hub.coursera-notebooks.org/user/ayrajafxbsvioqkisjiepw/notebooks/Week%202/Python%20Basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.ipynb  
+
 Welcome to your first assignment. This exercise gives you a brief introduction to Python. Even if you've used Python before, this will help familiarize you with functions we'll need.  
 
 **Instructions:**
